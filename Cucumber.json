@@ -1,0 +1,317 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1605949788,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open Browser",
+            "match": {
+              "location": "StepDefinition.open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4972403526,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the url \"https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.enter_the_url(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "To verify the Page Title of Rental Application is \"Demo\"",
+        "description": "",
+        "id": "rental-application;to-verify-the-page-title-of-rental-application-is-\"demo\"",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 96008346,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "View Page Title",
+            "match": {
+              "location": "StepDefinition.view_Page_Title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1006827733,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open Browser",
+            "match": {
+              "location": "StepDefinition.open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4641703194,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the url \"https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.enter_the_url(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "To verify the URL of Rental Application is correct",
+        "description": "",
+        "id": "rental-application;to-verify-the-url-of-rental-application-is-correct",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 88810461,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "View URL",
+            "match": {
+              "location": "StepDefinition.view_URL()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 976002647,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open Browser",
+            "match": {
+              "location": "StepDefinition.open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5692807416,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the url \"https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.enter_the_url(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "To verify the \"House Hold Information\" tab is highlighted",
+        "description": "",
+        "id": "rental-application;to-verify-the-\"house-hold-information\"-tab-is-highlighted",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 118234251,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "View tab",
+            "match": {
+              "location": "StepDefinition.view_tab()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 976204408,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open Browser",
+            "match": {
+              "location": "StepDefinition.open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5752951463,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the url \"https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.enter_the_url(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "To verify error validation message must appear if user tries to proceed without selecting any value in all three drop-downs",
+        "description": "",
+        "id": "rental-application;to-verify-error-validation-message-must-appear-if-user-tries-to-proceed-without-selecting-any-value-in-all-three-drop-downs",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 301856656,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "View Error Validation Messages",
+            "match": {
+              "location": "StepDefinition.view_Error_Validation_Messages()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 985621100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open Browser",
+            "match": {
+              "location": "StepDefinition.open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12936742618,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the url \"https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://acme-qa.everreal.co/app/public/apply/d986458c-4423-4441-be64-77774109864b/applications/step2",
+                  "offset": 15
+                }
+              ],
+              "location": "StepDefinition.enter_the_url(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "To verify the EverReal logo is redirecting towards EverReal Home Page",
+        "description": "",
+        "id": "rental-application;to-verify-the-everreal-logo-is-redirecting-towards-everreal-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3382646235,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Check Logo",
+            "match": {
+              "location": "StepDefinition.check_Logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Rental Application",
+    "description": "",
+    "id": "rental-application",
+    "keyword": "Feature",
+    "uri": "AllFeatures.feature"
+  }
+]
